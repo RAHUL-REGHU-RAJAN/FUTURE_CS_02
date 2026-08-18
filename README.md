@@ -207,24 +207,6 @@ All four samples were classified as **High Risk** because each combines multiple
 
 ---
 
-# 📁 Repository Structure
-
-```text
-Phishing-Email-Detection-Awareness/
-│
-├── README.md
-├── report/
-│   └── Phishing_Detection_Awareness_Report.docx
-│
-└── evidence/
-    ├── Phishing-email.1.eml
-    ├── Phishing-email.2.eml
-    ├── Phishing-email.3.eml
-    └── Phishing-email.4.eml
-```
-
----
-
 # 📸 Evidence
 
 The repository can contain supporting evidence for:
@@ -277,7 +259,7 @@ The email samples are controlled examples and use non-operational `.invalid` dom
 
 ## 👤 Author
 
-**Rahul**
+**Rahul Reghu Rajan**
 
 Cybersecurity | Ethical Hacking | Security Analysis
 
